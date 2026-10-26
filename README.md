@@ -25,7 +25,7 @@ My work spans agentic workflows, RAG, document AI, and developer tooling. I care
 
 Google Open Source: ADK, Copybara, Meridian, go-github, FlatBuffers.
 
-OwnGCC: HR portal and internal tooling.
+OwnGCC: Multiple projects - full time
 
 ## Stack
 
