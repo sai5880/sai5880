@@ -1,11 +1,3 @@
-```text
-  ____    _    ___
- / ___|  / \  |_ _|
- \___ \ / _ \  | |
-  ___) / ___ \ | |
- |____/_/   \_\___|
-```
-
 ### Hi, I'm Sai
 
 **I build AI systems and the full-stack products around them.**
