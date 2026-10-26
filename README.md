@@ -4,13 +4,14 @@
 
 My work spans agentic workflows, RAG, document AI, and developer tooling. I care about systems that are testable, observable, and secure outside the demo. Alongside product work, I spend time on open-source security: reading code, finding edge cases, and turning them into reproducible reports.
 
-- Contributing to Google open source, including a merged fix in **google/adk-kotlin**.
+- Contributing to Google open source, with merged fixes in **google/go-github** and **google/adk-kotlin**.
 - Working on agentic workflows, document AI, and developer tooling.
 
 ---
 
 ## Open source
 
+- **Merged:** [google/go-github #4659](https://github.com/google/go-github/pull/4659) - stopped the OpenTelemetry transport from recording tokens and userinfo in the `http.url` span attribute.
 - **Merged:** [google/adk-kotlin #787](https://github.com/google/adk-kotlin/pull/787) - bumped `google-genai-kotlin` to 1.7.0 to fix the `LiveConverters` test build.
 - Opened fixes and reports in Google ADK, Copybara, Meridian, go-github, and FlatBuffers.
 
