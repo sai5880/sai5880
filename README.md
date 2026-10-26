@@ -18,9 +18,14 @@ My work spans agentic workflows, RAG, document AI, and developer tooling. I care
   <a href="https://github.com/google">
     <img src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" width="72" height="72" alt="Google">
   </a>
+  <a href="https://github.com/OwnGCC">
+    <img src="https://avatars.githubusercontent.com/u/310276565?s=200&v=4" width="72" height="72" alt="OwnGCC">
+  </a>
 </p>
 
 Google Open Source: ADK, Copybara, Meridian, go-github, FlatBuffers.
+
+OwnGCC: HR portal and internal tooling.
 
 ## Stack
 
