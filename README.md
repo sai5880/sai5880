@@ -1,4 +1,13 @@
-# Hi, I'm Sai
+```text
+ ███████╗ █████╗ ██╗
+ ██╔════╝██╔══██╗██║
+ ███████╗███████║██║
+ ╚════██║██╔══██║██║
+ ███████║██║  ██║██║
+ ╚══════╝╚═╝  ╚═╝╚═╝
+```
+
+### Hi, I'm Sai
 
 **I build AI systems and the full-stack products around them.**
 
@@ -6,6 +15,8 @@ My work spans agentic workflows, RAG, document AI, and developer tooling. I care
 
 - Contributing to Google open source, including a merged fix in **google/adk-kotlin**.
 - Working on agentic workflows, document AI, and developer tooling.
+
+---
 
 ## Open source
 
@@ -27,14 +38,18 @@ Google Open Source: ADK, Copybara, Meridian, go-github, FlatBuffers.
 
 OwnGCC: Multiple projects - full time
 
-## Stack
-
-Python | TypeScript | Go | Kotlin | C++ | React | FastAPI | PostgreSQL | Docker | Google Cloud | Gemini
-
 ## GitHub
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai5880&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
+| Stars earned | Commits (last year) | Pull requests | Issues | Contributed to (last year) |
+| ---: | ---: | ---: | ---: | ---: |
+| 1 | 117 | 22 | 17 | 11 |
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai5880&layout=compact&hide_border=true&theme=transparent)
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,go,kotlin,cpp,react,fastapi,postgres,docker,gcp" alt="Python, TypeScript, Go, Kotlin, C++, React, FastAPI, PostgreSQL, Docker, Google Cloud">
+</p>
 
 Open to collaboration on AI agents, document AI, and developer tools.
