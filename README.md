@@ -7,6 +7,12 @@ My work spans agentic workflows, RAG, document AI, and developer tooling. I care
 - Contributing to Google open source, including a merged fix in **google/adk-kotlin**.
 - Working on agentic workflows, document AI, and developer tooling.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai5880/sai5880/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sai5880/sai5880/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/sai5880/sai5880/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
+
 ---
 
 ## Open source
