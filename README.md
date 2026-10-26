@@ -37,6 +37,29 @@ OwnGCC: Multiple projects - full time
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai5880&layout=compact&hide_border=true&theme=transparent)
 
+## Badges and trophies
+
+<p align="center">
+  <a href="https://github.com/sai5880?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="72" height="72" alt="Pull Shark achievement">
+  </a>
+  <a href="https://github.com/sai5880?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="72" height="72" alt="Quickdraw achievement">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sai5880?tab=achievements">
+    <img src="https://img.shields.io/badge/GitHub-Developer%20Program-181717?style=for-the-badge&logo=github" alt="GitHub Developer Program">
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=sai5880&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=sai5880&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4">
+  <img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=sai5880&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%">
+</picture>
+
 ## Stack
 
 <p>
