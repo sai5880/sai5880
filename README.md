@@ -4,7 +4,7 @@
 
 My work spans agentic workflows, RAG, document AI, and developer tooling. I care about systems that are testable, observable, and secure outside the demo. Alongside product work, I spend time on open-source security: reading code, finding edge cases, and turning them into reproducible reports.
 
-- Contributing to Google open source, with merged fixes in **google/go-github** and **google/adk-kotlin**.
+- Contributing to Google open source, with four merged fixes across **google/go-github** and **google/adk-kotlin**.
 - Working on agentic workflows, document AI, and developer tooling.
 
 ---
@@ -15,7 +15,7 @@ My work spans agentic workflows, RAG, document AI, and developer tooling. I care
 - **Merged:** [google/adk-kotlin #787](https://github.com/google/adk-kotlin/pull/787) - bumped `google-genai-kotlin` to 1.7.0 to fix the `LiveConverters` test build.
 - **Merged:** [google/adk-kotlin #767](https://github.com/google/adk-kotlin/pull/767) - contained model-controlled skill names to the skills directory and aligned skill-name validation across tools.
 - **Merged:** [google/adk-kotlin #768](https://github.com/google/adk-kotlin/pull/768) - propagated non-404 GCS listing errors instead of treating them as missing artifacts.
-- Opened fixes and reports in Google ADK, Copybara, Meridian, go-github, and FlatBuffers.
+- Opened fixes and reports in Google ADK, Copybara, Lightflow, Meridian, go-github, and FlatBuffers.
 
 ## Organizations I contribute to
 
@@ -28,15 +28,17 @@ My work spans agentic workflows, RAG, document AI, and developer tooling. I care
   </a>
 </p>
 
-Google Open Source: ADK, Copybara, Meridian, go-github, FlatBuffers.
+Google Open Source: ADK, Copybara, Lightflow, Meridian, go-github, FlatBuffers.
 
 OwnGCC: Multiple projects - full time
 
 ## GitHub
 
-| Stars earned | Commits (last year) | Pull requests | Issues | Contributed to (last year) |
+| Stars earned | Commits (last year) | Pull requests (all time) | Issues (all time) | Contributed to (last year) |
 | ---: | ---: | ---: | ---: | ---: |
-| 1 | 117 | 22 | 17 | 11 |
+| 1 | 131 | 33 | 22 | 19 |
+
+Stats refreshed October 2026.
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai5880&layout=compact&hide_border=true&theme=transparent)
 
