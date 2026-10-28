@@ -14,6 +14,7 @@ My work spans agentic workflows, RAG, document AI, and developer tooling. I care
 - **Merged:** [google/go-github #4659](https://github.com/google/go-github/pull/4659) - stopped the OpenTelemetry transport from recording tokens and userinfo in the `http.url` span attribute.
 - **Merged:** [google/adk-kotlin #787](https://github.com/google/adk-kotlin/pull/787) - bumped `google-genai-kotlin` to 1.7.0 to fix the `LiveConverters` test build.
 - **Merged:** [google/adk-kotlin #767](https://github.com/google/adk-kotlin/pull/767) - contained model-controlled skill names to the skills directory and aligned skill-name validation across tools.
+- **Merged:** [google/adk-kotlin #768](https://github.com/google/adk-kotlin/pull/768) - propagated non-404 GCS listing errors instead of treating them as missing artifacts.
 - Opened fixes and reports in Google ADK, Copybara, Meridian, go-github, and FlatBuffers.
 
 ## Organizations I contribute to
